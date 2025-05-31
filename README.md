@@ -38,19 +38,19 @@ A comprehensive web-based vulnerability scanner that detects common security vul
 
 ```
 vulnerability-scanner/
-├── app.py                 # Flask backend server
-├── scanner_engine.py      # Core vulnerability scanning logic
-├── requirements.txt       # Python dependencies
-├── README.md             # Project documentation
+├── app.py                 
+├── scanner_engine.py      
+├── requirements.txt      
+├── README.md            
 ├── static/
 │   ├── css/
-│   │   └── style.css     # Main stylesheet
+│   │   └── style.css     
 │   ├── js/
-│   │   └── main.js       # Frontend JavaScript
+│   │   └── main.js       
 │   └── assets/
-│       └── logo.png      # Optional project logo
+│       └── logo.png      
 └── templates/
-    └── index.html        # Main HTML template
+    └── index.html        
 ```
 
 ## 🛠️ Installation
@@ -62,7 +62,7 @@ vulnerability-scanner/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/vulnerability-scanner.git
+git clone https://github.com/Panda-0x01/ShadowRecon.git
 cd vulnerability-scanner
 ```
 
